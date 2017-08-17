@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 credentials.R
+studentNameConnector.R
+.txt
+.csv
+.Rproj
+.httr-oauth
